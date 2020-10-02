@@ -1,0 +1,226 @@
+
+
+body{margin: 0;
+  text-align: center;
+font-family: 'Nunito', sans-serif;
+  font-size: 140%;
+
+   }
+
+h1{margin: 50 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #ff2e63;
+}
+
+h2{
+  font-size: 2.5rem;
+  font-family: 'Quicksand', sans-serif;
+  color: #ff2e63;
+}
+
+h3{
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+}
+
+hr{
+  border:none;
+  border-top:1px dotted;
+  color: #D3D3D3;
+  width:5%;
+  border-width:7px;
+  border-spacing: 100px;
+
+}
+
+
+/*******************CLASS SELECTORS*************/
+
+.topdiv{background-color: #cbf7e6;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 25px;
+   }
+
+.First{
+  margin-top: 25px;
+}
+.middle-container{
+  padding-top: 20px;
+  background-color: #eeeeee;
+}
+
+
+.SC{
+  padding-top: 25px;
+}
+.S1{
+  color: white;
+}
+
+.PA{
+  color:white;
+  width:125%;
+  font-size: 80%;
+}
+
+.PB{
+    color:white;
+    width:125%;
+    font-size: 80%;
+}
+.skills-head{
+  color: white;
+
+}
+.Hello{
+  margin: 50px auto auto auto;
+}
+
+.Intro{text-align: center;
+ width: 77%;
+display: inline-block;
+font-size: 92%;
+}
+
+.profile{
+  padding-bottom: 40px;
+}
+
+.h2{color: #ff2e63;
+font-weight:normal;
+}
+
+.footer-link{
+  color:#11999E;
+}
+
+
+.pro{
+  text-decoration:underline;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom: 320px;
+  left: 340px;
+  visibility: hidden;
+}
+
+.Hello{
+  color: black;
+}
+
+.first-line{
+  color:#696969;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 350px;
+  bottom: 650px;
+  visibility: hidden;
+}
+
+
+.skills{
+  background-color: #ffcbcb;
+  padding-top: 10px;
+  border-width: thin;
+  padding-bottom: 2px;
+
+}
+
+.YT:hover{
+  color: white;
+}
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  padding-bottom: 10px;
+  text-align: left;
+  line-height: 2;
+}
+
+.white-line{
+  color: white
+}
+
+.SK1{
+  width: 35%;
+  float: left;
+padding-right: 25px;}
+
+  .SK2{
+    width: 40%;
+    padding-top: 25px;
+    float: right;
+    margin-left: 35px;
+    margin-bottom: 50px;
+  }
+
+  .Last{
+    position: relative;
+    margin-top: 50px;
+  }
+
+  .desc-link:hover{
+    color: white;
+  }
+  .contact-me{
+    margin-bottom: 100px;
+    line-height: 2;}
+
+.contacth2{
+  color: black;
+}
+
+.bottom-container{
+background-color:#30e3ca;
+margin: 0;
+border-width: 0;
+padding: 10px;
+}
+
+.copyright{
+  color: white;
+}
+
+
+.footer-link {
+  padding: 50px;
+  text-decoration: none;
+
+}
+
+.copy{
+  font-size: 16px;}
+
+/*
+clear is the anti - float cmd
+*/
+.myButton {
+	box-shadow: 0 0 3px 1px #3dc21b;
+	background:linear-gradient(to bottom, #eb12d2 5%, #0ffab7 100%);
+	background-color:#eb12d2;
+	border-radius:17px;
+	border:1px solid #31c1de;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:17px;
+	padding:18px 38px;
+	text-decoration:none;
+	text-shadow:3px -1px 9px #000000;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #0ffab7 5%, #eb12d2 100%);
+	background-color:#0ffab7;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
